@@ -10,7 +10,7 @@ def inicializar():
 
             linha.append(".")
 
-            tab.append(linha)
+            tab.ap pend(linha)
 
             return tab
 
